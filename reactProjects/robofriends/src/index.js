@@ -8,9 +8,9 @@ import 'tachyons';
 //import CardList from './CardList';
 
 //AppComponent contains all the Comented imports
-import AppComponent from './AppComponent';
+import App from './container/App';
 
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<AppComponent />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
