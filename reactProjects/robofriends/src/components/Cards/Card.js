@@ -1,5 +1,5 @@
 import React from 'react';
-import robocop from './robocop.jpg';
+import robocop from '../../robocop.jpg';
 import './Card.css';
 
 const Card = ({name, email, id})=>{
