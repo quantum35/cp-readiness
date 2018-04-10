@@ -1,0 +1,16 @@
+Simple Python Code To Make me tea.Just a Code to run save in .py file
+
+ingredients = ['water','tea pack','sugar']
+
+def boilWater():
+	print('Boiling Water.')
+def addIngridients():
+	print('Adding {}'.format(','.join(ingridients)))
+def makeMeTea():
+	boilWater()
+	addingIngridients()
+	print('Your Tea is Ready')
+def serveTea():
+	makeMeTea()
+	print('Here is Your Tea')
+	
