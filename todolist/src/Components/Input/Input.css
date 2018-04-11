@@ -1,0 +1,12 @@
+.searchField{
+    margin-top: 20%;
+}
+.searchField input{
+    width: 50%;
+}
+.btnSubmit {
+    background-color: chartreuse;
+    padding: 5px;
+    margin-left: 5px;
+    width: 15%;
+}
